@@ -1,2 +1,4 @@
 # hello-world
-Just learning repository
+
+Hi everyone
+Ztroid become humans they said
